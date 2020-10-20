@@ -1,0 +1,4425 @@
+{"assemblies": [
+{
+  "accession": "GCA_000837005.1",
+  "files": [
+    {
+      "filePath": "GCA_000837005.1/GCA_000837005.1_ViralProj14058_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000837005.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000857545.1",
+  "files": [
+    {
+      "filePath": "GCA_000857545.1/GCA_000857545.1_ViralProj15247_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000857545.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000864805.1",
+  "files": [
+    {
+      "filePath": "GCA_000864805.1/GCA_000864805.1_ViralProj15484_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000864805.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000870545.1",
+  "files": [
+    {
+      "filePath": "GCA_000870545.1/GCA_000870545.1_ViralProj19131_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000870545.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000882055.1",
+  "files": [
+    {
+      "filePath": "GCA_000882055.1/GCA_000882055.1_ViralProj34735_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000882055.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000886355.1",
+  "files": [
+    {
+      "filePath": "GCA_000886355.1/GCA_000886355.1_ViralProj48137_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000886355.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000887215.1",
+  "files": [
+    {
+      "filePath": "GCA_000887215.1/GCA_000887215.1_ViralProj48135_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000887215.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000887235.1",
+  "files": [
+    {
+      "filePath": "GCA_000887235.1/GCA_000887235.1_ViralProj48143_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000887235.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000887255.1",
+  "files": [
+    {
+      "filePath": "GCA_000887255.1/GCA_000887255.1_ViralProj48151_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000887255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000887275.1",
+  "files": [
+    {
+      "filePath": "GCA_000887275.1/GCA_000887275.1_ViralProj48159_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000887275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000887295.1",
+  "files": [
+    {
+      "filePath": "GCA_000887295.1/GCA_000887295.1_ViralProj48167_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000887295.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000887315.1",
+  "files": [
+    {
+      "filePath": "GCA_000887315.1/GCA_000887315.1_ViralProj48175_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000887315.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000887335.1",
+  "files": [
+    {
+      "filePath": "GCA_000887335.1/GCA_000887335.1_ViralProj48185_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000887335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000887355.1",
+  "files": [
+    {
+      "filePath": "GCA_000887355.1/GCA_000887355.1_ViralProj48193_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000887355.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888195.1",
+  "files": [
+    {
+      "filePath": "GCA_000888195.1/GCA_000888195.1_ViralProj48139_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888195.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888215.1",
+  "files": [
+    {
+      "filePath": "GCA_000888215.1/GCA_000888215.1_ViralProj48147_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888215.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888235.1",
+  "files": [
+    {
+      "filePath": "GCA_000888235.1/GCA_000888235.1_ViralProj48155_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888235.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888255.1",
+  "files": [
+    {
+      "filePath": "GCA_000888255.1/GCA_000888255.1_ViralProj48163_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888275.1",
+  "files": [
+    {
+      "filePath": "GCA_000888275.1/GCA_000888275.1_ViralProj48171_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888295.1",
+  "files": [
+    {
+      "filePath": "GCA_000888295.1/GCA_000888295.1_ViralProj48179_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888295.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888315.1",
+  "files": [
+    {
+      "filePath": "GCA_000888315.1/GCA_000888315.1_ViralProj48189_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888315.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888335.1",
+  "files": [
+    {
+      "filePath": "GCA_000888335.1/GCA_000888335.1_ViralProj48301_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888895.1",
+  "files": [
+    {
+      "filePath": "GCA_000888895.1/GCA_000888895.1_ViralProj48145_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888895.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888915.1",
+  "files": [
+    {
+      "filePath": "GCA_000888915.1/GCA_000888915.1_ViralProj48153_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888915.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888935.1",
+  "files": [
+    {
+      "filePath": "GCA_000888935.1/GCA_000888935.1_ViralProj48161_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888935.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888955.1",
+  "files": [
+    {
+      "filePath": "GCA_000888955.1/GCA_000888955.1_ViralProj48169_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888955.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888975.1",
+  "files": [
+    {
+      "filePath": "GCA_000888975.1/GCA_000888975.1_ViralProj48177_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888975.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000888995.1",
+  "files": [
+    {
+      "filePath": "GCA_000888995.1/GCA_000888995.1_ViralProj48187_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000888995.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000889755.1",
+  "files": [
+    {
+      "filePath": "GCA_000889755.1/GCA_000889755.1_ViralProj48141_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000889755.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000889775.1",
+  "files": [
+    {
+      "filePath": "GCA_000889775.1/GCA_000889775.1_ViralProj48149_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000889775.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000889795.1",
+  "files": [
+    {
+      "filePath": "GCA_000889795.1/GCA_000889795.1_ViralProj48157_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000889795.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000889815.1",
+  "files": [
+    {
+      "filePath": "GCA_000889815.1/GCA_000889815.1_ViralProj48165_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000889815.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000889855.1",
+  "files": [
+    {
+      "filePath": "GCA_000889855.1/GCA_000889855.1_ViralProj48181_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000889855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000889875.1",
+  "files": [
+    {
+      "filePath": "GCA_000889875.1/GCA_000889875.1_ViralProj48191_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000889875.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000890135.1",
+  "files": [
+    {
+      "filePath": "GCA_000890135.1/GCA_000890135.1_ViralProj51893_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000890135.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000891935.1",
+  "files": [
+    {
+      "filePath": "GCA_000891935.1/GCA_000891935.1_ViralProj65815_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000891935.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000896975.1",
+  "files": [
+    {
+      "filePath": "GCA_000896975.1/GCA_000896975.1_ViralProj157265_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000896975.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000899075.1",
+  "files": [
+    {
+      "filePath": "GCA_000899075.1/GCA_000899075.1_ViralProj172459_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000899075.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000905335.1",
+  "files": [
+    {
+      "filePath": "GCA_000905335.1/GCA_000905335.1_ViralProj193982_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000905335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000912415.1",
+  "files": [
+    {
+      "filePath": "GCA_000912415.1/GCA_000912415.1_ViralProj227355_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000912415.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000913875.1",
+  "files": [
+    {
+      "filePath": "GCA_000913875.1/GCA_000913875.1_ViralProj227356_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000913875.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000924395.1",
+  "files": [
+    {
+      "filePath": "GCA_000924395.1/GCA_000924395.1_ViralProj263033_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000924395.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000929855.1",
+  "files": [
+    {
+      "filePath": "GCA_000929855.1/GCA_000929855.1_ViralProj268591_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000929855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000930495.1",
+  "files": [
+    {
+      "filePath": "GCA_000930495.1/GCA_000930495.1_ViralProj268592_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000930495.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000930795.1",
+  "files": [
+    {
+      "filePath": "GCA_000930795.1/GCA_000930795.1_ViralProj272436_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000930795.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000954935.1",
+  "files": [
+    {
+      "filePath": "GCA_000954935.1/GCA_000954935.1_ViralProj278056_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000954935.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000959655.1",
+  "files": [
+    {
+      "filePath": "GCA_000959655.1/GCA_000959655.1_ViralProj278640_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000959655.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000959695.1",
+  "files": [
+    {
+      "filePath": "GCA_000959695.1/GCA_000959695.1_ViralProj278303_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000959695.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000969075.1",
+  "files": [
+    {
+      "filePath": "GCA_000969075.1/GCA_000969075.1_ViralProj280302_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000969075.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000969135.1",
+  "files": [
+    {
+      "filePath": "GCA_000969135.1/GCA_000969135.1_ViralProj280303_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000969135.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_001008435.1",
+  "files": [
+    {
+      "filePath": "GCA_001008435.1/GCA_001008435.1_ViralProj283618_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_001008435.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_001045285.1",
+  "files": [
+    {
+      "filePath": "GCA_001045285.1/GCA_001045285.1_ViralProj288496_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_001045285.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_001661815.1",
+  "files": [
+    {
+      "filePath": "GCA_001661815.1/GCA_001661815.1_ViralProj325264_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_001661815.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002210695.1",
+  "files": [
+    {
+      "filePath": "GCA_002210695.1/GCA_002210695.1_ViralProj392128_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002210695.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818195.1",
+  "files": [
+    {
+      "filePath": "GCA_002818195.1/GCA_002818195.1_ASM281819v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818195.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818245.1",
+  "files": [
+    {
+      "filePath": "GCA_002818245.1/GCA_002818245.1_ASM281824v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818245.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818275.1",
+  "files": [
+    {
+      "filePath": "GCA_002818275.1/GCA_002818275.1_ASM281827v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818305.1",
+  "files": [
+    {
+      "filePath": "GCA_002818305.1/GCA_002818305.1_ASM281830v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818305.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818335.1",
+  "files": [
+    {
+      "filePath": "GCA_002818335.1/GCA_002818335.1_ASM281833v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818355.1",
+  "files": [
+    {
+      "filePath": "GCA_002818355.1/GCA_002818355.1_ASM281835v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818355.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818385.1",
+  "files": [
+    {
+      "filePath": "GCA_002818385.1/GCA_002818385.1_ASM281838v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818385.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818405.1",
+  "files": [
+    {
+      "filePath": "GCA_002818405.1/GCA_002818405.1_ASM281840v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818405.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818425.1",
+  "files": [
+    {
+      "filePath": "GCA_002818425.1/GCA_002818425.1_ASM281842v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818425.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818445.1",
+  "files": [
+    {
+      "filePath": "GCA_002818445.1/GCA_002818445.1_ASM281844v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818445.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818465.1",
+  "files": [
+    {
+      "filePath": "GCA_002818465.1/GCA_002818465.1_ASM281846v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818465.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818485.1",
+  "files": [
+    {
+      "filePath": "GCA_002818485.1/GCA_002818485.1_ASM281848v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818485.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818505.1",
+  "files": [
+    {
+      "filePath": "GCA_002818505.1/GCA_002818505.1_ASM281850v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818505.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818525.1",
+  "files": [
+    {
+      "filePath": "GCA_002818525.1/GCA_002818525.1_ASM281852v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818525.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818545.1",
+  "files": [
+    {
+      "filePath": "GCA_002818545.1/GCA_002818545.1_ASM281854v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818545.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818565.1",
+  "files": [
+    {
+      "filePath": "GCA_002818565.1/GCA_002818565.1_ASM281856v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818565.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818585.1",
+  "files": [
+    {
+      "filePath": "GCA_002818585.1/GCA_002818585.1_ASM281858v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818585.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818605.1",
+  "files": [
+    {
+      "filePath": "GCA_002818605.1/GCA_002818605.1_ASM281860v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818605.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818625.1",
+  "files": [
+    {
+      "filePath": "GCA_002818625.1/GCA_002818625.1_ASM281862v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818625.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818645.1",
+  "files": [
+    {
+      "filePath": "GCA_002818645.1/GCA_002818645.1_ASM281864v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818645.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818665.1",
+  "files": [
+    {
+      "filePath": "GCA_002818665.1/GCA_002818665.1_ASM281866v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818665.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818685.1",
+  "files": [
+    {
+      "filePath": "GCA_002818685.1/GCA_002818685.1_ASM281868v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818685.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818705.1",
+  "files": [
+    {
+      "filePath": "GCA_002818705.1/GCA_002818705.1_ASM281870v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818705.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818725.1",
+  "files": [
+    {
+      "filePath": "GCA_002818725.1/GCA_002818725.1_ASM281872v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818725.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818745.1",
+  "files": [
+    {
+      "filePath": "GCA_002818745.1/GCA_002818745.1_ASM281874v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818745.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818765.1",
+  "files": [
+    {
+      "filePath": "GCA_002818765.1/GCA_002818765.1_ASM281876v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818765.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818785.1",
+  "files": [
+    {
+      "filePath": "GCA_002818785.1/GCA_002818785.1_ASM281878v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818785.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002818805.1",
+  "files": [
+    {
+      "filePath": "GCA_002818805.1/GCA_002818805.1_ASM281880v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002818805.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002986165.1",
+  "files": [
+    {
+      "filePath": "GCA_002986165.1/GCA_002986165.1_ASM298616v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002986165.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002986195.1",
+  "files": [
+    {
+      "filePath": "GCA_002986195.1/GCA_002986195.1_ASM298619v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002986195.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002986205.1",
+  "files": [
+    {
+      "filePath": "GCA_002986205.1/GCA_002986205.1_ASM298620v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002986205.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_003260835.1",
+  "files": [
+    {
+      "filePath": "GCA_003260835.1/GCA_003260835.1_ASM326083v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_003260835.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004129255.1",
+  "files": [
+    {
+      "filePath": "GCA_004129255.1/GCA_004129255.1_ASM412925v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004129255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004134085.1",
+  "files": [
+    {
+      "filePath": "GCA_004134085.1/GCA_004134085.1_ASM413408v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004134085.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004289895.1",
+  "files": [
+    {
+      "filePath": "GCA_004289895.1/GCA_004289895.1_ASM428989v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004289895.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004289975.1",
+  "files": [
+    {
+      "filePath": "GCA_004289975.1/GCA_004289975.1_ASM428997v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004289975.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290175.1",
+  "files": [
+    {
+      "filePath": "GCA_004290175.1/GCA_004290175.1_ASM429017v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290175.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290235.1",
+  "files": [
+    {
+      "filePath": "GCA_004290235.1/GCA_004290235.1_ASM429023v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290235.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290255.1",
+  "files": [
+    {
+      "filePath": "GCA_004290255.1/GCA_004290255.1_ASM429025v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290315.1",
+  "files": [
+    {
+      "filePath": "GCA_004290315.1/GCA_004290315.1_ASM429031v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290315.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290335.1",
+  "files": [
+    {
+      "filePath": "GCA_004290335.1/GCA_004290335.1_ASM429033v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290395.1",
+  "files": [
+    {
+      "filePath": "GCA_004290395.1/GCA_004290395.1_ASM429039v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290395.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290415.1",
+  "files": [
+    {
+      "filePath": "GCA_004290415.1/GCA_004290415.1_ASM429041v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290415.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290435.1",
+  "files": [
+    {
+      "filePath": "GCA_004290435.1/GCA_004290435.1_ASM429043v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290435.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290455.1",
+  "files": [
+    {
+      "filePath": "GCA_004290455.1/GCA_004290455.1_ASM429045v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290455.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290475.1",
+  "files": [
+    {
+      "filePath": "GCA_004290475.1/GCA_004290475.1_ASM429047v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290475.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290495.1",
+  "files": [
+    {
+      "filePath": "GCA_004290495.1/GCA_004290495.1_ASM429049v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290495.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290555.1",
+  "files": [
+    {
+      "filePath": "GCA_004290555.1/GCA_004290555.1_ASM429055v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290555.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290615.1",
+  "files": [
+    {
+      "filePath": "GCA_004290615.1/GCA_004290615.1_ASM429061v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290615.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290675.1",
+  "files": [
+    {
+      "filePath": "GCA_004290675.1/GCA_004290675.1_ASM429067v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290675.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290735.1",
+  "files": [
+    {
+      "filePath": "GCA_004290735.1/GCA_004290735.1_ASM429073v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290735.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290755.1",
+  "files": [
+    {
+      "filePath": "GCA_004290755.1/GCA_004290755.1_ASM429075v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290755.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290855.1",
+  "files": [
+    {
+      "filePath": "GCA_004290855.1/GCA_004290855.1_ASM429085v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290875.1",
+  "files": [
+    {
+      "filePath": "GCA_004290875.1/GCA_004290875.1_ASM429087v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290875.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290895.1",
+  "files": [
+    {
+      "filePath": "GCA_004290895.1/GCA_004290895.1_ASM429089v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290895.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290975.1",
+  "files": [
+    {
+      "filePath": "GCA_004290975.1/GCA_004290975.1_ASM429097v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290975.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004290995.1",
+  "files": [
+    {
+      "filePath": "GCA_004290995.1/GCA_004290995.1_ASM429099v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004290995.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004787855.1",
+  "files": [
+    {
+      "filePath": "GCA_004787855.1/GCA_004787855.1_ASM478785v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004787855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_006370125.1",
+  "files": [
+    {
+      "filePath": "GCA_006370125.1/GCA_006370125.1_ASM637012v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_006370125.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000837005.1",
+  "files": [
+    {
+      "filePath": "GCF_000837005.1/GCF_000837005.1_ViralProj14058_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000837005.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000857545.1",
+  "files": [
+    {
+      "filePath": "GCF_000857545.1/GCF_000857545.1_ViralProj15247_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000857545.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000864805.1",
+  "files": [
+    {
+      "filePath": "GCF_000864805.1/GCF_000864805.1_ViralProj15484_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000864805.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000870545.1",
+  "files": [
+    {
+      "filePath": "GCF_000870545.1/GCF_000870545.1_ViralProj19131_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000870545.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000882055.1",
+  "files": [
+    {
+      "filePath": "GCF_000882055.1/GCF_000882055.1_ViralProj34735_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000882055.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000886355.1",
+  "files": [
+    {
+      "filePath": "GCF_000886355.1/GCF_000886355.1_ViralProj48137_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000886355.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000887215.1",
+  "files": [
+    {
+      "filePath": "GCF_000887215.1/GCF_000887215.1_ViralProj48135_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000887215.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000887235.1",
+  "files": [
+    {
+      "filePath": "GCF_000887235.1/GCF_000887235.1_ViralProj48143_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000887235.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000887255.1",
+  "files": [
+    {
+      "filePath": "GCF_000887255.1/GCF_000887255.1_ViralProj48151_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000887255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000887275.1",
+  "files": [
+    {
+      "filePath": "GCF_000887275.1/GCF_000887275.1_ViralProj48159_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000887275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000887295.1",
+  "files": [
+    {
+      "filePath": "GCF_000887295.1/GCF_000887295.1_ViralProj48167_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000887295.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000887315.1",
+  "files": [
+    {
+      "filePath": "GCF_000887315.1/GCF_000887315.1_ViralProj48175_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000887315.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000887335.1",
+  "files": [
+    {
+      "filePath": "GCF_000887335.1/GCF_000887335.1_ViralProj48185_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000887335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000887355.1",
+  "files": [
+    {
+      "filePath": "GCF_000887355.1/GCF_000887355.1_ViralProj48193_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000887355.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888195.1",
+  "files": [
+    {
+      "filePath": "GCF_000888195.1/GCF_000888195.1_ViralProj48139_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888195.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888215.1",
+  "files": [
+    {
+      "filePath": "GCF_000888215.1/GCF_000888215.1_ViralProj48147_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888215.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888235.1",
+  "files": [
+    {
+      "filePath": "GCF_000888235.1/GCF_000888235.1_ViralProj48155_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888235.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888255.1",
+  "files": [
+    {
+      "filePath": "GCF_000888255.1/GCF_000888255.1_ViralProj48163_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888275.1",
+  "files": [
+    {
+      "filePath": "GCF_000888275.1/GCF_000888275.1_ViralProj48171_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888295.1",
+  "files": [
+    {
+      "filePath": "GCF_000888295.1/GCF_000888295.1_ViralProj48179_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888295.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888315.1",
+  "files": [
+    {
+      "filePath": "GCF_000888315.1/GCF_000888315.1_ViralProj48189_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888315.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888335.1",
+  "files": [
+    {
+      "filePath": "GCF_000888335.1/GCF_000888335.1_ViralProj48301_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888895.1",
+  "files": [
+    {
+      "filePath": "GCF_000888895.1/GCF_000888895.1_ViralProj48145_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888895.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888915.1",
+  "files": [
+    {
+      "filePath": "GCF_000888915.1/GCF_000888915.1_ViralProj48153_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888915.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888935.1",
+  "files": [
+    {
+      "filePath": "GCF_000888935.1/GCF_000888935.1_ViralProj48161_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888935.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888955.1",
+  "files": [
+    {
+      "filePath": "GCF_000888955.1/GCF_000888955.1_ViralProj48169_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888955.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888975.1",
+  "files": [
+    {
+      "filePath": "GCF_000888975.1/GCF_000888975.1_ViralProj48177_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888975.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000888995.1",
+  "files": [
+    {
+      "filePath": "GCF_000888995.1/GCF_000888995.1_ViralProj48187_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000888995.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000889755.1",
+  "files": [
+    {
+      "filePath": "GCF_000889755.1/GCF_000889755.1_ViralProj48141_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000889755.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000889775.1",
+  "files": [
+    {
+      "filePath": "GCF_000889775.1/GCF_000889775.1_ViralProj48149_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000889775.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000889795.1",
+  "files": [
+    {
+      "filePath": "GCF_000889795.1/GCF_000889795.1_ViralProj48157_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000889795.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000889815.1",
+  "files": [
+    {
+      "filePath": "GCF_000889815.1/GCF_000889815.1_ViralProj48165_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000889815.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000889855.1",
+  "files": [
+    {
+      "filePath": "GCF_000889855.1/GCF_000889855.1_ViralProj48181_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000889855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000889875.1",
+  "files": [
+    {
+      "filePath": "GCF_000889875.1/GCF_000889875.1_ViralProj48191_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000889875.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000890135.1",
+  "files": [
+    {
+      "filePath": "GCF_000890135.1/GCF_000890135.1_ViralProj51893_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000890135.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000891935.1",
+  "files": [
+    {
+      "filePath": "GCF_000891935.1/GCF_000891935.1_ViralProj65815_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000891935.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000896975.1",
+  "files": [
+    {
+      "filePath": "GCF_000896975.1/GCF_000896975.1_ViralProj157265_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000896975.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000899075.1",
+  "files": [
+    {
+      "filePath": "GCF_000899075.1/GCF_000899075.1_ViralProj172459_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000899075.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000905335.1",
+  "files": [
+    {
+      "filePath": "GCF_000905335.1/GCF_000905335.1_ViralProj193982_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000905335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000912415.1",
+  "files": [
+    {
+      "filePath": "GCF_000912415.1/GCF_000912415.1_ViralProj227355_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000912415.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000913875.1",
+  "files": [
+    {
+      "filePath": "GCF_000913875.1/GCF_000913875.1_ViralProj227356_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000913875.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000924395.1",
+  "files": [
+    {
+      "filePath": "GCF_000924395.1/GCF_000924395.1_ViralProj263033_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000924395.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000929855.1",
+  "files": [
+    {
+      "filePath": "GCF_000929855.1/GCF_000929855.1_ViralProj268591_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000929855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000930495.1",
+  "files": [
+    {
+      "filePath": "GCF_000930495.1/GCF_000930495.1_ViralProj268592_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000930495.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000930795.1",
+  "files": [
+    {
+      "filePath": "GCF_000930795.1/GCF_000930795.1_ViralProj272436_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000930795.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000954935.1",
+  "files": [
+    {
+      "filePath": "GCF_000954935.1/GCF_000954935.1_ViralProj278056_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000954935.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000959655.1",
+  "files": [
+    {
+      "filePath": "GCF_000959655.1/GCF_000959655.1_ViralProj278640_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000959655.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000959695.1",
+  "files": [
+    {
+      "filePath": "GCF_000959695.1/GCF_000959695.1_ViralProj278303_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000959695.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000969075.1",
+  "files": [
+    {
+      "filePath": "GCF_000969075.1/GCF_000969075.1_ViralProj280302_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000969075.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000969135.1",
+  "files": [
+    {
+      "filePath": "GCF_000969135.1/GCF_000969135.1_ViralProj280303_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000969135.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_001008435.1",
+  "files": [
+    {
+      "filePath": "GCF_001008435.1/GCF_001008435.1_ViralProj283618_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_001008435.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_001045285.1",
+  "files": [
+    {
+      "filePath": "GCF_001045285.1/GCF_001045285.1_ViralProj288496_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_001045285.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_001661815.1",
+  "files": [
+    {
+      "filePath": "GCF_001661815.1/GCF_001661815.1_ViralProj325264_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_001661815.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002210695.1",
+  "files": [
+    {
+      "filePath": "GCF_002210695.1/GCF_002210695.1_ViralProj392128_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002210695.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818195.1",
+  "files": [
+    {
+      "filePath": "GCF_002818195.1/GCF_002818195.1_ASM281819v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818195.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818245.1",
+  "files": [
+    {
+      "filePath": "GCF_002818245.1/GCF_002818245.1_ASM281824v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818245.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818275.1",
+  "files": [
+    {
+      "filePath": "GCF_002818275.1/GCF_002818275.1_ASM281827v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818305.1",
+  "files": [
+    {
+      "filePath": "GCF_002818305.1/GCF_002818305.1_ASM281830v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818305.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818335.1",
+  "files": [
+    {
+      "filePath": "GCF_002818335.1/GCF_002818335.1_ASM281833v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818355.1",
+  "files": [
+    {
+      "filePath": "GCF_002818355.1/GCF_002818355.1_ASM281835v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818355.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818385.1",
+  "files": [
+    {
+      "filePath": "GCF_002818385.1/GCF_002818385.1_ASM281838v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818385.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818405.1",
+  "files": [
+    {
+      "filePath": "GCF_002818405.1/GCF_002818405.1_ASM281840v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818405.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818425.1",
+  "files": [
+    {
+      "filePath": "GCF_002818425.1/GCF_002818425.1_ASM281842v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818425.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818445.1",
+  "files": [
+    {
+      "filePath": "GCF_002818445.1/GCF_002818445.1_ASM281844v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818445.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818465.1",
+  "files": [
+    {
+      "filePath": "GCF_002818465.1/GCF_002818465.1_ASM281846v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818465.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818485.1",
+  "files": [
+    {
+      "filePath": "GCF_002818485.1/GCF_002818485.1_ASM281848v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818485.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818505.1",
+  "files": [
+    {
+      "filePath": "GCF_002818505.1/GCF_002818505.1_ASM281850v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818505.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818525.1",
+  "files": [
+    {
+      "filePath": "GCF_002818525.1/GCF_002818525.1_ASM281852v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818525.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818545.1",
+  "files": [
+    {
+      "filePath": "GCF_002818545.1/GCF_002818545.1_ASM281854v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818545.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818565.1",
+  "files": [
+    {
+      "filePath": "GCF_002818565.1/GCF_002818565.1_ASM281856v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818565.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818585.1",
+  "files": [
+    {
+      "filePath": "GCF_002818585.1/GCF_002818585.1_ASM281858v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818585.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818605.1",
+  "files": [
+    {
+      "filePath": "GCF_002818605.1/GCF_002818605.1_ASM281860v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818605.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818625.1",
+  "files": [
+    {
+      "filePath": "GCF_002818625.1/GCF_002818625.1_ASM281862v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818625.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818645.1",
+  "files": [
+    {
+      "filePath": "GCF_002818645.1/GCF_002818645.1_ASM281864v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818645.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818665.1",
+  "files": [
+    {
+      "filePath": "GCF_002818665.1/GCF_002818665.1_ASM281866v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818665.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818685.1",
+  "files": [
+    {
+      "filePath": "GCF_002818685.1/GCF_002818685.1_ASM281868v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818685.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818705.1",
+  "files": [
+    {
+      "filePath": "GCF_002818705.1/GCF_002818705.1_ASM281870v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818705.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818725.1",
+  "files": [
+    {
+      "filePath": "GCF_002818725.1/GCF_002818725.1_ASM281872v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818725.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818745.1",
+  "files": [
+    {
+      "filePath": "GCF_002818745.1/GCF_002818745.1_ASM281874v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818745.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818765.1",
+  "files": [
+    {
+      "filePath": "GCF_002818765.1/GCF_002818765.1_ASM281876v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818765.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818785.1",
+  "files": [
+    {
+      "filePath": "GCF_002818785.1/GCF_002818785.1_ASM281878v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818785.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002818805.1",
+  "files": [
+    {
+      "filePath": "GCF_002818805.1/GCF_002818805.1_ASM281880v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002818805.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002986165.1",
+  "files": [
+    {
+      "filePath": "GCF_002986165.1/GCF_002986165.1_ASM298616v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002986165.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002986195.1",
+  "files": [
+    {
+      "filePath": "GCF_002986195.1/GCF_002986195.1_ASM298619v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002986195.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002986205.1",
+  "files": [
+    {
+      "filePath": "GCF_002986205.1/GCF_002986205.1_ASM298620v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002986205.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004129255.1",
+  "files": [
+    {
+      "filePath": "GCF_004129255.1/GCF_004129255.1_ASM412925v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004129255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004134085.1",
+  "files": [
+    {
+      "filePath": "GCF_004134085.1/GCF_004134085.1_ASM413408v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004134085.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000859305.1",
+  "files": [
+    {
+      "filePath": "GCA_000859305.1/GCA_000859305.1_ViralProj15252_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000859305.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000860145.1",
+  "files": [
+    {
+      "filePath": "GCA_000860145.1/GCA_000860145.1_ViralProj15253_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000860145.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000889835.1",
+  "files": [
+    {
+      "filePath": "GCA_000889835.1/GCA_000889835.1_ViralProj48173_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000889835.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000891655.1",
+  "files": [
+    {
+      "filePath": "GCA_000891655.1/GCA_000891655.1_ViralProj63583_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000891655.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000893775.1",
+  "files": [
+    {
+      "filePath": "GCA_000893775.1/GCA_000893775.1_ViralProj70005_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000893775.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000921755.1",
+  "files": [
+    {
+      "filePath": "GCA_000921755.1/GCA_000921755.1_ViralProj261353_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000921755.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000921775.1",
+  "files": [
+    {
+      "filePath": "GCA_000921775.1/GCA_000921775.1_ViralProj261536_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000921775.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000924275.1",
+  "files": [
+    {
+      "filePath": "GCA_000924275.1/GCA_000924275.1_ViralProj261352_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000924275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_000930715.1",
+  "files": [
+    {
+      "filePath": "GCA_000930715.1/GCA_000930715.1_ViralProj271180_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_000930715.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_001689855.1",
+  "files": [
+    {
+      "filePath": "GCA_001689855.1/GCA_001689855.1_ViralProj329636_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_001689855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002194485.1",
+  "files": [
+    {
+      "filePath": "GCA_002194485.1/GCA_002194485.1_ViralProj390417_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002194485.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002210895.1",
+  "files": [
+    {
+      "filePath": "GCA_002210895.1/GCA_002210895.1_ViralProj392138_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002210895.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_002219365.1",
+  "files": [
+    {
+      "filePath": "GCA_002219365.1/GCA_002219365.1_ViralProj394294_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_002219365.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_003147525.1",
+  "files": [
+    {
+      "filePath": "GCA_003147525.1/GCA_003147525.1_ASM314752v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_003147525.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_003390055.1",
+  "files": [
+    {
+      "filePath": "GCA_003390055.1/GCA_003390055.1_ASM339005v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_003390055.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_003390075.1",
+  "files": [
+    {
+      "filePath": "GCA_003390075.1/GCA_003390075.1_ASM339007v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_003390075.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_003390095.1",
+  "files": [
+    {
+      "filePath": "GCA_003390095.1/GCA_003390095.1_ASM339009v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_003390095.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004129915.1",
+  "files": [
+    {
+      "filePath": "GCA_004129915.1/GCA_004129915.1_ASM412991v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004129915.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004131325.1",
+  "files": [
+    {
+      "filePath": "GCA_004131325.1/GCA_004131325.1_ASM413132v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004131325.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004131345.1",
+  "files": [
+    {
+      "filePath": "GCA_004131345.1/GCA_004131345.1_ASM413134v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004131345.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004131365.1",
+  "files": [
+    {
+      "filePath": "GCA_004131365.1/GCA_004131365.1_ASM413136v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004131365.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004131385.1",
+  "files": [
+    {
+      "filePath": "GCA_004131385.1/GCA_004131385.1_ASM413138v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004131385.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004131405.1",
+  "files": [
+    {
+      "filePath": "GCA_004131405.1/GCA_004131405.1_ASM413140v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004131405.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004131425.1",
+  "files": [
+    {
+      "filePath": "GCA_004131425.1/GCA_004131425.1_ASM413142v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004131425.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004131445.1",
+  "files": [
+    {
+      "filePath": "GCA_004131445.1/GCA_004131445.1_ASM413144v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004131445.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004284895.1",
+  "files": [
+    {
+      "filePath": "GCA_004284895.1/GCA_004284895.1_ASM428489v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004284895.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004284915.1",
+  "files": [
+    {
+      "filePath": "GCA_004284915.1/GCA_004284915.1_ASM428491v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004284915.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004284935.1",
+  "files": [
+    {
+      "filePath": "GCA_004284935.1/GCA_004284935.1_ASM428493v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004284935.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004284955.1",
+  "files": [
+    {
+      "filePath": "GCA_004284955.1/GCA_004284955.1_ASM428495v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004284955.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004284975.1",
+  "files": [
+    {
+      "filePath": "GCA_004284975.1/GCA_004284975.1_ASM428497v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004284975.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004284995.1",
+  "files": [
+    {
+      "filePath": "GCA_004284995.1/GCA_004284995.1_ASM428499v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004284995.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285015.1",
+  "files": [
+    {
+      "filePath": "GCA_004285015.1/GCA_004285015.1_ASM428501v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285015.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285035.1",
+  "files": [
+    {
+      "filePath": "GCA_004285035.1/GCA_004285035.1_ASM428503v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285035.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285055.1",
+  "files": [
+    {
+      "filePath": "GCA_004285055.1/GCA_004285055.1_ASM428505v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285055.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285075.1",
+  "files": [
+    {
+      "filePath": "GCA_004285075.1/GCA_004285075.1_ASM428507v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285075.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285095.1",
+  "files": [
+    {
+      "filePath": "GCA_004285095.1/GCA_004285095.1_ASM428509v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285095.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285115.1",
+  "files": [
+    {
+      "filePath": "GCA_004285115.1/GCA_004285115.1_ASM428511v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285115.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285135.1",
+  "files": [
+    {
+      "filePath": "GCA_004285135.1/GCA_004285135.1_ASM428513v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285135.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285155.1",
+  "files": [
+    {
+      "filePath": "GCA_004285155.1/GCA_004285155.1_ASM428515v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285155.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285175.1",
+  "files": [
+    {
+      "filePath": "GCA_004285175.1/GCA_004285175.1_ASM428517v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285175.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285195.1",
+  "files": [
+    {
+      "filePath": "GCA_004285195.1/GCA_004285195.1_ASM428519v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285195.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285215.1",
+  "files": [
+    {
+      "filePath": "GCA_004285215.1/GCA_004285215.1_ASM428521v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285215.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285235.1",
+  "files": [
+    {
+      "filePath": "GCA_004285235.1/GCA_004285235.1_ASM428523v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285235.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285255.1",
+  "files": [
+    {
+      "filePath": "GCA_004285255.1/GCA_004285255.1_ASM428525v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285275.1",
+  "files": [
+    {
+      "filePath": "GCA_004285275.1/GCA_004285275.1_ASM428527v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285295.1",
+  "files": [
+    {
+      "filePath": "GCA_004285295.1/GCA_004285295.1_ASM428529v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285295.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285315.1",
+  "files": [
+    {
+      "filePath": "GCA_004285315.1/GCA_004285315.1_ASM428531v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285315.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285335.1",
+  "files": [
+    {
+      "filePath": "GCA_004285335.1/GCA_004285335.1_ASM428533v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285355.1",
+  "files": [
+    {
+      "filePath": "GCA_004285355.1/GCA_004285355.1_ASM428535v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285355.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285375.1",
+  "files": [
+    {
+      "filePath": "GCA_004285375.1/GCA_004285375.1_ASM428537v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285375.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285395.1",
+  "files": [
+    {
+      "filePath": "GCA_004285395.1/GCA_004285395.1_ASM428539v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285395.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285415.1",
+  "files": [
+    {
+      "filePath": "GCA_004285415.1/GCA_004285415.1_ASM428541v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285415.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285435.1",
+  "files": [
+    {
+      "filePath": "GCA_004285435.1/GCA_004285435.1_ASM428543v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285435.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285455.1",
+  "files": [
+    {
+      "filePath": "GCA_004285455.1/GCA_004285455.1_ASM428545v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285455.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285475.1",
+  "files": [
+    {
+      "filePath": "GCA_004285475.1/GCA_004285475.1_ASM428547v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285475.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285495.1",
+  "files": [
+    {
+      "filePath": "GCA_004285495.1/GCA_004285495.1_ASM428549v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285495.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285515.1",
+  "files": [
+    {
+      "filePath": "GCA_004285515.1/GCA_004285515.1_ASM428551v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285515.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285535.1",
+  "files": [
+    {
+      "filePath": "GCA_004285535.1/GCA_004285535.1_ASM428553v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285535.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285555.1",
+  "files": [
+    {
+      "filePath": "GCA_004285555.1/GCA_004285555.1_ASM428555v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285555.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285575.1",
+  "files": [
+    {
+      "filePath": "GCA_004285575.1/GCA_004285575.1_ASM428557v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285575.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285595.1",
+  "files": [
+    {
+      "filePath": "GCA_004285595.1/GCA_004285595.1_ASM428559v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285595.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285615.1",
+  "files": [
+    {
+      "filePath": "GCA_004285615.1/GCA_004285615.1_ASM428561v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285615.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285635.1",
+  "files": [
+    {
+      "filePath": "GCA_004285635.1/GCA_004285635.1_ASM428563v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285635.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285655.1",
+  "files": [
+    {
+      "filePath": "GCA_004285655.1/GCA_004285655.1_ASM428565v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285655.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285675.1",
+  "files": [
+    {
+      "filePath": "GCA_004285675.1/GCA_004285675.1_ASM428567v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285675.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285695.1",
+  "files": [
+    {
+      "filePath": "GCA_004285695.1/GCA_004285695.1_ASM428569v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285695.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285715.1",
+  "files": [
+    {
+      "filePath": "GCA_004285715.1/GCA_004285715.1_ASM428571v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285715.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285735.1",
+  "files": [
+    {
+      "filePath": "GCA_004285735.1/GCA_004285735.1_ASM428573v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285735.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285755.1",
+  "files": [
+    {
+      "filePath": "GCA_004285755.1/GCA_004285755.1_ASM428575v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285755.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285775.1",
+  "files": [
+    {
+      "filePath": "GCA_004285775.1/GCA_004285775.1_ASM428577v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285775.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285795.1",
+  "files": [
+    {
+      "filePath": "GCA_004285795.1/GCA_004285795.1_ASM428579v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285795.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285815.1",
+  "files": [
+    {
+      "filePath": "GCA_004285815.1/GCA_004285815.1_ASM428581v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285815.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285835.1",
+  "files": [
+    {
+      "filePath": "GCA_004285835.1/GCA_004285835.1_ASM428583v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285835.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285855.1",
+  "files": [
+    {
+      "filePath": "GCA_004285855.1/GCA_004285855.1_ASM428585v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285875.1",
+  "files": [
+    {
+      "filePath": "GCA_004285875.1/GCA_004285875.1_ASM428587v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285875.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285935.1",
+  "files": [
+    {
+      "filePath": "GCA_004285935.1/GCA_004285935.1_ASM428593v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285935.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285955.1",
+  "files": [
+    {
+      "filePath": "GCA_004285955.1/GCA_004285955.1_ASM428595v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285955.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285975.1",
+  "files": [
+    {
+      "filePath": "GCA_004285975.1/GCA_004285975.1_ASM428597v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285975.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004285995.1",
+  "files": [
+    {
+      "filePath": "GCA_004285995.1/GCA_004285995.1_ASM428599v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004285995.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286015.1",
+  "files": [
+    {
+      "filePath": "GCA_004286015.1/GCA_004286015.1_ASM428601v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286015.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286035.1",
+  "files": [
+    {
+      "filePath": "GCA_004286035.1/GCA_004286035.1_ASM428603v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286035.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286055.1",
+  "files": [
+    {
+      "filePath": "GCA_004286055.1/GCA_004286055.1_ASM428605v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286055.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286075.1",
+  "files": [
+    {
+      "filePath": "GCA_004286075.1/GCA_004286075.1_ASM428607v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286075.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286095.1",
+  "files": [
+    {
+      "filePath": "GCA_004286095.1/GCA_004286095.1_ASM428609v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286095.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286115.1",
+  "files": [
+    {
+      "filePath": "GCA_004286115.1/GCA_004286115.1_ASM428611v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286115.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286135.1",
+  "files": [
+    {
+      "filePath": "GCA_004286135.1/GCA_004286135.1_ASM428613v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286135.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286155.1",
+  "files": [
+    {
+      "filePath": "GCA_004286155.1/GCA_004286155.1_ASM428615v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286155.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286175.1",
+  "files": [
+    {
+      "filePath": "GCA_004286175.1/GCA_004286175.1_ASM428617v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286175.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286195.1",
+  "files": [
+    {
+      "filePath": "GCA_004286195.1/GCA_004286195.1_ASM428619v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286195.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286215.1",
+  "files": [
+    {
+      "filePath": "GCA_004286215.1/GCA_004286215.1_ASM428621v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286215.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286235.1",
+  "files": [
+    {
+      "filePath": "GCA_004286235.1/GCA_004286235.1_ASM428623v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286235.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286255.1",
+  "files": [
+    {
+      "filePath": "GCA_004286255.1/GCA_004286255.1_ASM428625v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286275.1",
+  "files": [
+    {
+      "filePath": "GCA_004286275.1/GCA_004286275.1_ASM428627v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286295.1",
+  "files": [
+    {
+      "filePath": "GCA_004286295.1/GCA_004286295.1_ASM428629v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286295.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286315.1",
+  "files": [
+    {
+      "filePath": "GCA_004286315.1/GCA_004286315.1_ASM428631v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286315.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286335.1",
+  "files": [
+    {
+      "filePath": "GCA_004286335.1/GCA_004286335.1_ASM428633v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286355.1",
+  "files": [
+    {
+      "filePath": "GCA_004286355.1/GCA_004286355.1_ASM428635v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286355.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286375.1",
+  "files": [
+    {
+      "filePath": "GCA_004286375.1/GCA_004286375.1_ASM428637v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286375.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286395.1",
+  "files": [
+    {
+      "filePath": "GCA_004286395.1/GCA_004286395.1_ASM428639v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286395.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286415.1",
+  "files": [
+    {
+      "filePath": "GCA_004286415.1/GCA_004286415.1_ASM428641v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286415.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286435.1",
+  "files": [
+    {
+      "filePath": "GCA_004286435.1/GCA_004286435.1_ASM428643v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286435.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286455.1",
+  "files": [
+    {
+      "filePath": "GCA_004286455.1/GCA_004286455.1_ASM428645v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286455.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286475.1",
+  "files": [
+    {
+      "filePath": "GCA_004286475.1/GCA_004286475.1_ASM428647v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286475.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286495.1",
+  "files": [
+    {
+      "filePath": "GCA_004286495.1/GCA_004286495.1_ASM428649v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286495.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286515.1",
+  "files": [
+    {
+      "filePath": "GCA_004286515.1/GCA_004286515.1_ASM428651v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286515.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286535.1",
+  "files": [
+    {
+      "filePath": "GCA_004286535.1/GCA_004286535.1_ASM428653v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286535.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286555.1",
+  "files": [
+    {
+      "filePath": "GCA_004286555.1/GCA_004286555.1_ASM428655v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286555.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286575.1",
+  "files": [
+    {
+      "filePath": "GCA_004286575.1/GCA_004286575.1_ASM428657v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286575.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286595.1",
+  "files": [
+    {
+      "filePath": "GCA_004286595.1/GCA_004286595.1_ASM428659v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286595.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286615.1",
+  "files": [
+    {
+      "filePath": "GCA_004286615.1/GCA_004286615.1_ASM428661v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286615.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286635.1",
+  "files": [
+    {
+      "filePath": "GCA_004286635.1/GCA_004286635.1_ASM428663v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286635.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286655.1",
+  "files": [
+    {
+      "filePath": "GCA_004286655.1/GCA_004286655.1_ASM428665v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286655.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286675.1",
+  "files": [
+    {
+      "filePath": "GCA_004286675.1/GCA_004286675.1_ASM428667v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286675.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286695.1",
+  "files": [
+    {
+      "filePath": "GCA_004286695.1/GCA_004286695.1_ASM428669v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286695.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286715.1",
+  "files": [
+    {
+      "filePath": "GCA_004286715.1/GCA_004286715.1_ASM428671v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286715.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286735.1",
+  "files": [
+    {
+      "filePath": "GCA_004286735.1/GCA_004286735.1_ASM428673v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286735.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286755.1",
+  "files": [
+    {
+      "filePath": "GCA_004286755.1/GCA_004286755.1_ASM428675v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286755.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286775.1",
+  "files": [
+    {
+      "filePath": "GCA_004286775.1/GCA_004286775.1_ASM428677v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286775.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286795.1",
+  "files": [
+    {
+      "filePath": "GCA_004286795.1/GCA_004286795.1_ASM428679v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286795.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286815.1",
+  "files": [
+    {
+      "filePath": "GCA_004286815.1/GCA_004286815.1_ASM428681v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286815.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286835.1",
+  "files": [
+    {
+      "filePath": "GCA_004286835.1/GCA_004286835.1_ASM428683v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286835.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286855.1",
+  "files": [
+    {
+      "filePath": "GCA_004286855.1/GCA_004286855.1_ASM428685v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286875.1",
+  "files": [
+    {
+      "filePath": "GCA_004286875.1/GCA_004286875.1_ASM428687v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286875.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286895.1",
+  "files": [
+    {
+      "filePath": "GCA_004286895.1/GCA_004286895.1_ASM428689v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286895.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004286915.1",
+  "files": [
+    {
+      "filePath": "GCA_004286915.1/GCA_004286915.1_ASM428691v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004286915.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287095.1",
+  "files": [
+    {
+      "filePath": "GCA_004287095.1/GCA_004287095.1_ASM428709v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287095.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287115.1",
+  "files": [
+    {
+      "filePath": "GCA_004287115.1/GCA_004287115.1_ASM428711v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287115.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287135.1",
+  "files": [
+    {
+      "filePath": "GCA_004287135.1/GCA_004287135.1_ASM428713v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287135.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287155.1",
+  "files": [
+    {
+      "filePath": "GCA_004287155.1/GCA_004287155.1_ASM428715v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287155.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287175.1",
+  "files": [
+    {
+      "filePath": "GCA_004287175.1/GCA_004287175.1_ASM428717v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287175.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287195.1",
+  "files": [
+    {
+      "filePath": "GCA_004287195.1/GCA_004287195.1_ASM428719v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287195.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287215.1",
+  "files": [
+    {
+      "filePath": "GCA_004287215.1/GCA_004287215.1_ASM428721v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287215.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287235.1",
+  "files": [
+    {
+      "filePath": "GCA_004287235.1/GCA_004287235.1_ASM428723v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287235.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287255.1",
+  "files": [
+    {
+      "filePath": "GCA_004287255.1/GCA_004287255.1_ASM428725v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287255.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287275.1",
+  "files": [
+    {
+      "filePath": "GCA_004287275.1/GCA_004287275.1_ASM428727v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287295.1",
+  "files": [
+    {
+      "filePath": "GCA_004287295.1/GCA_004287295.1_ASM428729v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287295.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287315.1",
+  "files": [
+    {
+      "filePath": "GCA_004287315.1/GCA_004287315.1_ASM428731v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287315.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287335.1",
+  "files": [
+    {
+      "filePath": "GCA_004287335.1/GCA_004287335.1_ASM428733v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287335.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287355.1",
+  "files": [
+    {
+      "filePath": "GCA_004287355.1/GCA_004287355.1_ASM428735v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287355.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287375.1",
+  "files": [
+    {
+      "filePath": "GCA_004287375.1/GCA_004287375.1_ASM428737v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287375.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287395.1",
+  "files": [
+    {
+      "filePath": "GCA_004287395.1/GCA_004287395.1_ASM428739v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287395.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287415.1",
+  "files": [
+    {
+      "filePath": "GCA_004287415.1/GCA_004287415.1_ASM428741v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287415.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287435.1",
+  "files": [
+    {
+      "filePath": "GCA_004287435.1/GCA_004287435.1_ASM428743v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287435.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004287455.1",
+  "files": [
+    {
+      "filePath": "GCA_004287455.1/GCA_004287455.1_ASM428745v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004287455.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004289775.1",
+  "files": [
+    {
+      "filePath": "GCA_004289775.1/GCA_004289775.1_ASM428977v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004289775.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004289855.1",
+  "files": [
+    {
+      "filePath": "GCA_004289855.1/GCA_004289855.1_ASM428985v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004289855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCA_004289875.1",
+  "files": [
+    {
+      "filePath": "GCA_004289875.1/GCA_004289875.1_ASM428987v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCA_004289875.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000859305.1",
+  "files": [
+    {
+      "filePath": "GCF_000859305.1/GCF_000859305.1_ViralProj15252_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000859305.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000860145.1",
+  "files": [
+    {
+      "filePath": "GCF_000860145.1/GCF_000860145.1_ViralProj15253_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000860145.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000889835.1",
+  "files": [
+    {
+      "filePath": "GCF_000889835.1/GCF_000889835.1_ViralProj48173_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000889835.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000891655.1",
+  "files": [
+    {
+      "filePath": "GCF_000891655.1/GCF_000891655.1_ViralProj63583_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000891655.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000893775.1",
+  "files": [
+    {
+      "filePath": "GCF_000893775.1/GCF_000893775.1_ViralProj70005_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000893775.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000921755.1",
+  "files": [
+    {
+      "filePath": "GCF_000921755.1/GCF_000921755.1_ViralProj261353_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000921755.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000921775.1",
+  "files": [
+    {
+      "filePath": "GCF_000921775.1/GCF_000921775.1_ViralProj261536_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000921775.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000924275.1",
+  "files": [
+    {
+      "filePath": "GCF_000924275.1/GCF_000924275.1_ViralProj261352_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000924275.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_000930715.1",
+  "files": [
+    {
+      "filePath": "GCF_000930715.1/GCF_000930715.1_ViralProj271180_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_000930715.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_001689855.1",
+  "files": [
+    {
+      "filePath": "GCF_001689855.1/GCF_001689855.1_ViralProj329636_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_001689855.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002194485.1",
+  "files": [
+    {
+      "filePath": "GCF_002194485.1/GCF_002194485.1_ViralProj390417_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002194485.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002210895.1",
+  "files": [
+    {
+      "filePath": "GCF_002210895.1/GCF_002210895.1_ViralProj392138_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002210895.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_002219365.1",
+  "files": [
+    {
+      "filePath": "GCF_002219365.1/GCF_002219365.1_ViralProj394294_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_002219365.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004129915.1",
+  "files": [
+    {
+      "filePath": "GCF_004129915.1/GCF_004129915.1_ASM412991v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004129915.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004131325.1",
+  "files": [
+    {
+      "filePath": "GCF_004131325.1/GCF_004131325.1_ASM413132v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004131325.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004131345.1",
+  "files": [
+    {
+      "filePath": "GCF_004131345.1/GCF_004131345.1_ASM413134v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004131345.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004131365.1",
+  "files": [
+    {
+      "filePath": "GCF_004131365.1/GCF_004131365.1_ASM413136v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004131365.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004131385.1",
+  "files": [
+    {
+      "filePath": "GCF_004131385.1/GCF_004131385.1_ASM413138v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004131385.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004131405.1",
+  "files": [
+    {
+      "filePath": "GCF_004131405.1/GCF_004131405.1_ASM413140v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004131405.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004131425.1",
+  "files": [
+    {
+      "filePath": "GCF_004131425.1/GCF_004131425.1_ASM413142v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004131425.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "accession": "GCF_004131445.1",
+  "files": [
+    {
+      "filePath": "GCF_004131445.1/GCF_004131445.1_ASM413144v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA"
+    },
+    {
+      "filePath": "GCF_004131445.1/sequence_report.jsonl",
+      "fileType": "SEQUENCE_REPORT"
+    }
+  ]
+},{
+  "files": [
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT"
+    }
+  ]
+}]}

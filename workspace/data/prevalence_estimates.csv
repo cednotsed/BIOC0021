@@ -1,4 +1,4 @@
-﻿location,lat,long,prevalence,ttv,ttmdv,ttmv,viral_load,n_healthy,reference
+location,lat,long,prevalence,ttv,ttmdv,ttmv,viral_load,n_healthy,reference
 Romania,44.439663,26.096306,71.5,68.2,54.4,40.1,,701,https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3248-9
 Marseille,43.29695,5.38107,,66,,62,,100,https://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.20539?saml_referrer
 Qatar,25.3548,51.1839,,83.4,74.6,61.2,,500,https://link.springer.com/article/10.1186/s12985-016-0664-6
@@ -15,3 +15,13 @@ Jordan,30.5852,36.2384,,96,,,,396,https://www.mdpi.com/1999-4915/12/2/165
 New Delhi,28.6139,77.209,,27,,,,513,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760200/
 Iran,32.4279,53.688,,49.3,,,,152,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058187/
 Taiwan,23.6978,120.9605,,95,,,,140,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149901
+Gabon,-0.8037,11.6094,,30.3,,,,66,https://www.ajtmh.org/content/journals/10.4269/ajtmh.2000.63.192
+Egypt,26.8206,30.8025,,,,,,95,https://jcm.asm.org/content/37/8/2703/figures-only
+Eastern Cape,-32.2968,26.4194,,84,,,,75,https://pubmed.ncbi.nlm.nih.gov/12806716/
+Japan,36.2048,138.2529,,92,,,,100,https://febs.onlinelibrary.wiley.com/doi/full/10.1016/S0014-5793%2898%2901231-9
+Myanmar,21.9162,95.956,,96,,,,51,https://jcm.asm.org/content/37/8/2703/figures-only
+Nepal,28.3949,84.124,,82,,,,177,https://jcm.asm.org/content/37/8/2703/figures-only
+Bolivia,-17.413977,-66.165321,,82,,,,95,https://jcm.asm.org/content/37/8/2703/figures-only
+USA,39.2904,-76.6122,,41.6,,,,250,https://onlinelibrary.wiley.com/doi/full/10.1046/j.1537-2995.2000.40020245.x
+Indonesia,-0.7893,113.9213,,42,,,,102,https://europepmc.org/article/med/11556704
+Australia,-25.2744,133.7751,,47,,,,36,https://www.sciencedirect.com/science/article/pii/S1386634699000467?casa_token=d1WLnvI56TsAAAAA:GDvfrfRnaxxFylPCXsLnym_Fy9SCWpNjCF-3uorssRPsXYY1fJNLZ4LeCr5dY23jS5TZw-U03UQ
