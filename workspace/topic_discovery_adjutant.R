@@ -7,7 +7,7 @@ require(Rtsne)
 #also set a seed - there is some randomness in the analysis.
 set.seed(416)
 
-df<-processSearch("(microbiome OR virome) AND torque AND teno AND virus",retmax=10000)
+df<-processSearch("torque AND teno AND virus",retmax=10000)
 tidy_df<-tidyCorpus(corpus = df)
 # X <- tidy_df[, c("tf", "idf", "tf_idf")]
 tsneObj<-runTSNE(tidy_df, check_duplicates=FALSE, perplexity = 20)

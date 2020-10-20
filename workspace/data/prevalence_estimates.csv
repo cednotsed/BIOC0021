@@ -1,0 +1,17 @@
+﻿location,lat,long,prevalence,ttv,ttmdv,ttmv,viral_load,n_healthy,reference
+Romania,44.439663,26.096306,71.5,68.2,54.4,40.1,,701,https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-018-3248-9
+Marseille,43.29695,5.38107,,66,,62,,100,https://onlinelibrary.wiley.com/doi/epdf/10.1002/jmv.20539?saml_referrer
+Qatar,25.3548,51.1839,,83.4,74.6,61.2,,500,https://link.springer.com/article/10.1186/s12985-016-0664-6
+Korea,35.9078,127.7669,86,66,,29,,90,http://www.kjbt.org/journal/view.html?uid=248&sort=book_Seq&scale=&key=year&keyword=&s_v=17&s_n=2&pn=vol&year=2006&vmd=Full
+Khorramabad,33.4647,48.339,,,14.5,,,110,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4740761/
+Norway,60.472,8.4689,,90,,48,,201,https://pubmed.ncbi.nlm.nih.gov/11855630/
+Brazil,14.235,51.9253,,,,72,,137,https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.2021?casa_token=opfsBIhFACsAAAAA:HNtUj_8RYD19AypuLFw9EQxIual7vNxYxSseQ6GHKU7ghxWGTDbG8YKnP0ANVoZ-Drm1_7eLJ8a-Cdvd
+France,46.2276,2.2137,,75,,75,,32,https://onlinelibrary.wiley.com/doi/full/10.1046/j.1537-2995.2000.40121542.x
+shanghai,31.2304,121.4737,,46.5,60.5,34.9,,43,https://bmcoralhealth.biomedcentral.com/articles/10.1186/s12903-020-01188-2
+Russia,61.524,105.3188,,94,,,10^6-10^10,512,https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-6-134#Sec2
+Pakistan,30.3753,69.3451,,,,92.5,,40,https://link.springer.com/article/10.1186/1743-422X-9-320
+hungary,47.1625,19.5033,,67.4,,,,95,https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0625.2007.00663.x
+Jordan,30.5852,36.2384,,96,,,,396,https://www.mdpi.com/1999-4915/12/2/165
+New Delhi,28.6139,77.209,,27,,,,513,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2760200/
+Iran,32.4279,53.688,,49.3,,,,152,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6058187/
+Taiwan,23.6978,120.9605,,95,,,,140,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149901

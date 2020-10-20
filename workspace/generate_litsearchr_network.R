@@ -1,7 +1,7 @@
 setwd("~/../Desktop/year_3/BIOC0021/workspace")
 require(litsearchr)
 require(igraph)
-naiveimport <- litsearchr::import_results(directory = "database_files/torque_teno_virus_all/", 
+naiveimport <- litsearchr::import_results(directory = "database_files/anelloviridae_anellovirus/", 
                                           verbose = TRUE)
 
 naiveresults <-
@@ -49,7 +49,7 @@ cutoff <-
     naivegraph,
     # method = "changepoint",
     method = "cumulative",
-    percent = 0.60,
+    percent = 0.80,
     imp_method = "strength"
   )
 
