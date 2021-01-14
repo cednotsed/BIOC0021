@@ -1,0 +1,60 @@
+﻿type,family,virus name,mutation_rate,rate_type,study,regions_used
+(+)ssRNA,Astroviridae ,Human astrovirus ,0.0103,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Caliciviridae ,Rabbit hemorrhagic disease virus ,0.00828,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Caliciviridae ,Human calicivirus ,0.00382,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Caliciviridae ,Feline calicivirus ,0.00464,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Caliciviridae ,Hepatitis E virus ,0.00523,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Flaviviridae ,Dengue virus ,0.00242,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Flaviviridae ,Yellow fever virus ,0.00119,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Flaviviridae ,Japanese encephalitis virus ,0.000631,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Flaviviridae ,Tick-borne encephalitis virus ,0.000491,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Flaviviridae ,Bovine viral diarrhea virus ,0.00234,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Flaviviridae ,Hepatitis C virus ,0.000751,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Flaviviridae ,GB virus C/hepatitis G virus ,0.000000135,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Picornaviridae ,Foot-and-mouth disease virus ,0.00829,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Picornaviridae ,Human enterovirus A ,0.01,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Picornaviridae ,Human enterovirus B ,0.00365,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Picornaviridae ,Human poliovirus ,0.0256,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Picornaviridae ,Swine vesicular disease virus ,0.00295,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Picornaviridae ,Human hepatitis A virus ,0.0013,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Togaviridae ,Eastern equine encephalitis virus ,0.000325,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Togaviridae ,Rubella virus ,0.00264,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Coronaviridae ,Bovine coronavirus,0.0012,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Arteriviridae,Porcine reproductive and respiratory syndrome virus ,0.0621,synonymous,Hanada et al. (2004),whole genome
+(+)ssRNA,Arteriviridae,Equine arteritis virus ,0.0052,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Arenaviridae ,Junin virus,0.00506,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Bunyaviridae ,Puumala virus ,0.0000521,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Bunyaviridae ,Crimean-Congo hemorrhagic fever virus ,0.00123,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Bunyaviridae ,Cache Valley virus ,0.000845,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Bunyaviridae ,Rift Valley fever virus ,0.00059,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Paramyxoviridae,Bovine respiratory syncytial virus ,0.00217,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Paramyxoviridae,Human metapneumovirus ,0.00243,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Paramyxoviridae,Canine distemper virus ,0.00212,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Paramyxoviridae,Measles virus ,0.00212,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Paramyxoviridae,Humanparainfluenza virus ,0.0016,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Paramyxoviridae,Mumps virus ,0.00211,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Paramyxoviridae,Newcastle disease virus ,0.00254,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Rhabdoviridae,Bovine ephemeral fever virus ,0.00223,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Rhabdoviridae,Rabies virus ,0.00128,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Rhabdoviridae,Vesicular stomatitis virus ,0.000072,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Filoviridae ,Ebola-like viruses ,0.000154,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Orthomyxoviridae ,Human Influenza virus A ,0.00684,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Orthomyxoviridae ,Human influenza virus B ,0.0023,synonymous,Hanada et al. (2004),whole genome
+(-)ssRNA,Orthomyxoviridae ,Human influenza virus C ,0.00127,synonymous,Hanada et al. (2004),whole genome
+dsRNA,Reoviridae ,Human rota virus ,0.00193,synonymous,Hanada et al. (2004),whole genome
+dsRNA,Reoviridae ,Mamalian orthoreo virus ,0.000842,synonymous,Hanada et al. (2004),whole genome
+dsRNA,Reoviridae ,Bluetongue virus,0.000422,synonymous,Hanada et al. (2004),whole genome
+ssRNA-RT,Retroviridae ,Simian foamy virus ,0.000029,synonymous,Hanada et al. (2004),whole genome
+ssRNA-RT,Retroviridae ,Human immunodeficiency virus ,0.00238,synonymous,Hanada et al. (2004),whole genome
+ssRNA-RT,Retroviridae ,Human T-lymphotropic virus 1 ,0.0000052,synonymous,Hanada et al. (2004),whole genome
+ssDNA,Anelloviridae,Human TTV,0.00073,synonymous,Umemura et al. (2001),"ORF1, ORF2"
+ssDNA,Anelloviridae,TTSuV,0.00054,substitution,Cadar et al. (2013),"~ 700 nt; untranslated region, ORF2 and 5′-end of ORF1"
+ssDNA,Anelloviridae,Human TTV,0.000231,substitution,Bedarida et al. (2017),whole genome
+ssDNA,Anelloviridae,Feline TTV,0.000298,substitution,Bedarida et al. (2017),whole genome
+dsDNA-RT,Hepadnaviridae,Hepatitis B virus,0.0000457,synonymous,Orito et al. (1989),whole genome
+dsDNA,Herpesviridae,Herpes simplex virus 1,0.000000035,substitution,Sakaoka et al. (1984),whole genome
+dsDNA,Polyomaviridae,Primate polyomavirus,0.000000038,synonymous,Yasunaga & Miyata (1982),whole genome
+dsDNA,Polyomaviridae,Human polyomavirus JC,0.0000004,synonymous,Hatwell & Sharp (2000),whole genome
+ssDNA,Parvoviridae,Human B19 Erythrovirus,0.000183,substitution,Shackelton & Holmes (2006),coding regions
+ssDNA,Circoviridae,Porcine circovirus 2,0.0012,substitution,Firth et al. (2009),"ORF1, ORF3"
+dsDNA,Papillomaviridae,Human Papillomavirus,0.000000018,substitution,Chen et al. (2017),whole genome
