@@ -20,12 +20,12 @@ ggplot() +
   geom_point(data = annot_df, aes(x = type, y = log_rate),
              color = "black",
              shape = 18,
-             size = 2.5) +
+             size = 2.5)
   # geom_text(data = annot_df, 
   #           aes(x = type, y = log_rate, label = virus_name),
   #           color = "black",
   #           hjust = 1.4,
   #           size = 2)
-
-ggsave("results/mutation_rates.png", dpi = 600, width = 5, height = 4)
+  
+ggsave("results/mutation_rates.png", dpi = 600, width = 6, height = 6)
 
