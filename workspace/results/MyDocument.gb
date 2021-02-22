@@ -1,0 +1,23 @@
+LOCUS       Annotations                                             21-FEB-2021
+UNIMARK     Annotations
+FEATURES             Location/Qualifiers
+     misc_feature    1..486
+                     /ugene_name="UTR"
+     misc_feature    323..328
+                     /ugene_name="TATA\ box"
+     gene            380..1030
+                     /ugene_name="VP2"
+                     /ugene_group="Protein"
+     gene            486..851
+                     /ugene_name="VP3"
+                     /ugene_group="ORF2"
+     misc_feature    853..2202
+                     /ugene_name="VP1"
+     misc_feature    2203..2319
+                     /ugene_name="UTR"
+     misc_feature    2237..2272
+                     /ugene_name="GC-rich\ region"
+     misc_feature    2287..2292
+                     /ugene_name="Poly-A\ tail"
+                     /ugene_group="polyA"
+//
